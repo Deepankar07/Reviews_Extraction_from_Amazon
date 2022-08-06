@@ -26,11 +26,6 @@ for i in range(0,len(names)):
 #Some names are repeating so removing it---
 cust_name.pop(0)
 cust_name.pop(0)
-cust_name.pop(0)
-cust_name.pop(4)
-cust_name.pop(7)
-cust_name.pop(4)
-cust_name.pop(6)
 #print(cust_name)    
 
 

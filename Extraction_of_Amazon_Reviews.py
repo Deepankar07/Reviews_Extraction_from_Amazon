@@ -46,6 +46,7 @@ for i in range(0,len(ratings)):
     rating.append(ratings[i].get_text())
 rating.pop(0)
 rating.pop(0)
+rating.sort()
 #print(rating)    
 
 
